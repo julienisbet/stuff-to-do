@@ -4,7 +4,7 @@
 
 1. [Typing Practice](#1-typing-practice)
 1. [Variables & Data Types](#2-variables-and-data-types)
-1. [Conditionals, Booleans, & Truthys](3-conditionals--booleans-and-truthys)
+1. [Conditionals, Booleans, & Truthys](#3-conditionals-booleans--truthys)
 1. [Functions](#4-functions)
 1. [Array Methods](#5-array-methods)
 1. [Arrays, Objects & Destructuring](#6-arrays--objects-and-destructuring)
