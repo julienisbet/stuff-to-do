@@ -2,9 +2,15 @@
 
 7 things to do over the break, other than sleep, eat and watch Netflix which are required.
 
-1. [Typing Practice](#Typing)
+1. [Typing Practice](#1-typing-practice)
+1. [Variables & Data Types](#2-variables-and-data-types)
+1. [Conditionals, Booleans, & Truthys](3-conditionals--booleans-and-truthys)
+1. [Functions](#4-functions)
+1. [Array Methods](#5-array-methods)
+1. [Arrays, Objects & Destructuring](#6-arrays--objects-and-destructuring)
+1. [Code Wars](#7-code-wars)
 
-# 1.Typing Practice
+# 1. Typing Practice
 
 The faster you type, the easier it is to code
 
@@ -12,7 +18,7 @@ The faster you type, the easier it is to code
 - [vscode typing test extension](https://marketplace.visualstudio.com/items?itemName=Jeusto.warm-up-typing-test) Practice typing within vscode
 - [typeracer](https://play.typeracer.com/) Race your friends!
 
-# 2. Variables and Data Types
+# 2.Variables and Data Types
 
 The building blocks of ALL our code. Here are some questions for you to research -- hint write some code to make sure you understand the answers.
 
@@ -26,7 +32,7 @@ The building blocks of ALL our code. Here are some questions for you to research
 - [JS Hero](https://www.jshero.net/en/success.html)
 - [javascript.info data types](https://javascript.info/data-types)
 
-# 3. Conditionals / Truthy / Falsy Values
+# 3. Conditionals, Booleans, & Truthys
 
 We use conditionals ALL. THE. TIME. Get comfortable with the logic of if / else statements. Make sure you can write ternaries. Understand boolean logic and logical operators. Understand what data types in Javascript are "truthy" and which are "falsy". What does "truthy" and "falsy" even mean?
 
