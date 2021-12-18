@@ -18,7 +18,7 @@ The faster you type, the easier it is to code
 - [vscode typing test extension](https://marketplace.visualstudio.com/items?itemName=Jeusto.warm-up-typing-test) Practice typing within vscode
 - [typeracer](https://play.typeracer.com/) Race your friends!
 
-# 2.Variables and Data Types
+# 2. Variables and Data Types
 
 The building blocks of ALL our code. Here are some questions for you to research -- hint write some code to make sure you understand the answers.
 
