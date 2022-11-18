@@ -26,6 +26,12 @@ The building blocks of ALL our code. Here are some questions for you to research
 - Which data types are passed by reference? Which are passed by value? Whats the difference between passing by reference and passing by value?
 - What is meant by variable scope in Javascript?
 - Whats the difference between let, const and var?
+- What will this code output? Why? How can you fix it?
+```js
+for(var i = 0; i < 5; i++){
+   setTimeout(()=>console.log(i), 0);
+}
+```
 
 ## Resources
 
@@ -38,7 +44,7 @@ We use conditionals ALL. THE. TIME. Get comfortable with the logic of if / else 
 
 ## Resources
 
-- [Logical Operators Quiz](https://julienisbet.github.io/logical-operators-warm-up/)
+- [Logical Operators Quiz](https://julienisbet.github.io/classroom-quizzes/)
 - [javascript.info Conditional Branching](https://javascript.info/ifelse)
 - [javascript.info logical operators](https://javascript.info/logical-operators)
 
@@ -59,11 +65,12 @@ We use conditionals ALL. THE. TIME. Get comfortable with the logic of if / else 
 
 # 5. Array Methods
 
-Do the [array methods spotlight challenge again](https://github.com/alchemycodelab/react-spotlight-array-methods)
+If you have done the React module, do the [array methods spotlight challenge](https://github.com/alchemycodelab/react-spotlight-array-methods)
+
+
 
 # 6. Arrays / Objects and Destructuring
-
-Do the [arrays / objects destructuring challenge again ](https://github.com/alchemycodelab/react-spotlight-arrays-objects)
+If you have done the React module, do the [arrays / objects destructuring challenge again ](https://github.com/alchemycodelab/react-spotlight-arrays-objects)
 
 # 7. Code Wars
 
